@@ -4,6 +4,14 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+h2 {
+	font-weight: normal;
+	color:#ffffff;
+}
+h4 {
+	font-weight: normal;
+	color:#ffffff;
+}
 
 
 .header--main{
